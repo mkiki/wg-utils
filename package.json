@@ -1,5 +1,5 @@
 {
-  "name": "wilgeforte",
+  "name": "wg-utils",
   "version": "2.0.0",
   "description": "JavaScript utilities",
   "author": "Alexandre Morin <aggmorin@gmail.com>",
@@ -13,17 +13,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "ssh://loulex.com/var/git/wg-utils.git"
+    "url": "https://github.com/mkiki/wg-utils.git"
   },
   "dependencies": {
   },
   "devDependencies": {
-    "del": "~2.2.2",
-    "gulp": "~3.9.1",
-    "gulp-util": "~3.0.7",
-    "gulp-gzip": "~1.4.0",
-    "gulp-tar": "~1.9.0",
-    "mocha": "~2.3.4",
-    "uuid": "~2.0.3"
+    "mocha": "~2.3.4"
   }
 }
